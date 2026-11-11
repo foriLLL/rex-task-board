@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rex-task-board",
+  "description": "Live ASCII task board for agents running in the Rex terminal.",
+  "owner": {
+    "name": "foriLLL",
+    "url": "https://github.com/foriLLL"
+  },
+  "plugins": [
+    {
+      "name": "rex-task-board",
+      "description": "Live ASCII task board in a Rex pane beside the agent: phases, progress, what needs you, and your past prompts.",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/foriLLL/rex-task-board"
+    }
+  ]
+}

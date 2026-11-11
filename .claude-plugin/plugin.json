@@ -1,0 +1,13 @@
+{
+  "name": "rex-task-board",
+  "version": "0.1.0",
+  "description": "Live ASCII task board in a Rex pane beside the agent: phases, progress, what needs you, and your past prompts.",
+  "author": {
+    "name": "foriLLL",
+    "url": "https://github.com/foriLLL"
+  },
+  "homepage": "https://github.com/foriLLL/rex-task-board",
+  "repository": "https://github.com/foriLLL/rex-task-board",
+  "license": "MIT",
+  "keywords": ["rex", "terminal", "task-board", "progress", "skill"]
+}
